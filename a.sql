@@ -1,5 +1,5 @@
 /*
-SQLyog 企业版 - MySQL GUI v8.14 SQLyog 企业版 - MySQL GUI v8.14 
+SQLyog 企业版 - MySQL GUI v8.14 
 MySQL - 5.5.40 : Database - sy
 *********************************************************************
 */
